@@ -1,6 +1,6 @@
-# Identity Management
+# Frontend push
 
-A repository to show how identity management using OIDC works when using:
+A repository to show pushing data the frontend works
 
 * nextjs
 * duende identity server <https://docs.duendesoftware.com/>
